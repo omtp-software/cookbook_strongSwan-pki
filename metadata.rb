@@ -6,4 +6,4 @@ description      'Installs/Configures ipsec-pki'
 long_description 'Installs/Configures ipsec-pki'
 version          '0.1.0'
 
-requires 'strongSwan'
+depends 'strongSwan'
