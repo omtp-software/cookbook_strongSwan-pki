@@ -18,3 +18,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
+if %w{mac_os_x windows}.include?(node["platform_family"])
+	include_recipe 'client-interoperability'
+end
