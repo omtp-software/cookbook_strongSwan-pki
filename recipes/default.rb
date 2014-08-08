@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: ipsec-pki
+# Cookbook Name:: strongSwan-pki
 # Description:: Installs and configures the certificates for a StrongSwan server and/or it's clients.
 # Recipe:: default
 # Author:: Jerry Jackson (<jerry.jackson@acommitteeoflunatics.com>)
